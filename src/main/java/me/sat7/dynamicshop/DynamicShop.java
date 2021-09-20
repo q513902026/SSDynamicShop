@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.Random;
 
 public final class DynamicShop extends JavaPlugin implements Listener {
-
+ 
     private static Economy econ = null; // 볼트에 물려있는 이코노미
 
     public static Economy getEconomy() {
